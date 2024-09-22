@@ -1,0 +1,8 @@
+{
+  "require": {
+    "pocketmine/pocketmine-mp": ">=5.19.0",
+    "ramsey/uuid": ">=4.7.6",
+    "pocketmine/math": ">=1.0.0",
+    "dktapps/pmforms": ">=2.2.0"
+  }
+}

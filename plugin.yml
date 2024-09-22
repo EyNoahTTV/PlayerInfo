@@ -1,0 +1,9 @@
+name: PlayerInfo
+version: 1.0.0
+api: 5.0.0
+author: vNoaaah
+main: vnoaaah\playerinfo\Loader
+
+permissions:
+  list.form:
+    default: op
