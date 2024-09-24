@@ -5,5 +5,5 @@ author: vNoaaah
 main: vnoaaah\playerinfo\Loader
 
 permissions:
-  list.form:
+  form.list:
     default: op
